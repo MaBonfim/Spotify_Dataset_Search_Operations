@@ -9,6 +9,7 @@
 
  For the search is necessary a .txt file of a query.  
  The first line is the atribute of the register, while the second line is the value of the atribute
+ 
  ![image](https://github.com/MaBonfim/Spotify_Dataset_Manipulation/assets/126115600/059e8b32-9422-443f-8191-6d91110c9617)
 
  It is possible to search for more than one atribute merging the search with AND/OR operations, and the values separated by comas
