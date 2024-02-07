@@ -4,7 +4,7 @@
 # Program Operation
  The dataset have 1200000+ musical tracks register, with some atributes like name, artist, year. The programm allows you to serch for the registers filtering them based on the atributes.
 
- Atributes:
+ Atributes for search:
  name, album, artists, track_number, disc_number, explicit, key, mode, year
 
  For the search is necessary a .txt file of a query.  
@@ -23,4 +23,14 @@
  Using the query above there is he following output
  ![image](https://github.com/MaBonfim/Spotify_Dataset_Manipulation/assets/126115600/05902f24-f3ef-4daa-a92d-ac1d517a9560)
 
+# Running the program
+ 1 - Unzip tracks_features.zip
+ 
+ 2 - Inside the Program folder run a command line using the following model
+
+ python [main file] [dataset] [query] [output]
+
+ for example: python
+
+ 
  
