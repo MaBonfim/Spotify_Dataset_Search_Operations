@@ -1,7 +1,3 @@
-#Nomes: Matheus Bonfim da Rocha - Samuel Felipe Cordova Victorio
-#Data: 06/12/2023
-# Programa para busca de registros com uso de indice secundario do arquivo de musicas "tracks_features.csv" do spotify
-
 #------------IMPORTS----------------------------------
 import csv
 import sys
