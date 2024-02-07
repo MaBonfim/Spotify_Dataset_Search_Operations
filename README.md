@@ -29,8 +29,11 @@
  2 - Inside the Program folder run a command line using the following model
 
  python [main file] [dataset] [query] [output]
+ 
 
- for example: python
+ for example: 
+ 
+ python main.py tracks_features.csv query1.txt output.txt
 
  
  
